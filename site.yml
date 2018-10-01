@@ -1,0 +1,16 @@
+---
+
+- hosts: webservers
+  remote_user: osboxes
+  become: yes
+  tasks:
+    - name: install apache2
+      yum: name=httpd state=latest
+
+    - name: make sure HTTPD is running
+      service:
+        name: httpd
+        state: started
+        enabled: yes
+
+     
