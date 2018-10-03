@@ -1,0 +1,8 @@
+- name: Run the command if the specified file does not exist
+  command: https://toolbelt.treasuredata.com/sh/install-redhat-td-agent2.5.sh
+
+- name: INstall TD-agent first
+  yum: install=td-agent
+
+- name: Start Fleuntd    
+  command: /etc/init.d/td-agent start
