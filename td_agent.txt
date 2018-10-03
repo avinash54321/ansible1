@@ -6,3 +6,4 @@
 
 - name: Start Fleuntd    
   command: /etc/init.d/td-agent start
+  https://www.fluentd.org/guides/recipes/elasticsearch-and-s3
