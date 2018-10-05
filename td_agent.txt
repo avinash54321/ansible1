@@ -8,3 +8,4 @@
   command: /etc/init.d/td-agent start
   https://www.fluentd.org/guides/recipes/elasticsearch-and-s3
   https://github.com/fluent/fluentd/issues/1841
+https://elastalert.readthedocs.io/en/latest/running_elastalert.html#tutorial
