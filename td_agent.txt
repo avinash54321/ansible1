@@ -9,3 +9,4 @@
   https://www.fluentd.org/guides/recipes/elasticsearch-and-s3
   https://github.com/fluent/fluentd/issues/1841
 https://elastalert.readthedocs.io/en/latest/running_elastalert.html#tutorial
+https://www.elastic.co/guide/en/elasticsearch/reference/current/_delete_an_index.html
