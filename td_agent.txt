@@ -11,3 +11,4 @@
 https://elastalert.readthedocs.io/en/latest/running_elastalert.html#tutorial
 https://www.elastic.co/guide/en/elasticsearch/reference/current/_delete_an_index.html
 https://alexandreesl.com/2016/04/15/elastalert-implementing-rich-monitoring-with-elasticsearch/
+https://github.com/Yelp/elastalert/issues/627
