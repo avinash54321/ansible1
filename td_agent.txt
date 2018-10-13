@@ -15,3 +15,4 @@ https://github.com/Yelp/elastalert/issues/627
 https://unix.stackexchange.com/questions/36982/can-i-set-up-system-mail-to-use-an-external-smtp-server
 https://serverfault.com/questions/635139/how-to-fix-send-mail-authorization-failed-534-5-7-14
 https://stackoverflow.com/questions/20349170/socket-error-errno-111-connection-refused
+https://askubuntu.com/questions/531526/ssmtp-cannot-open-mail-server-com25
