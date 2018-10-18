@@ -24,3 +24,4 @@ https://www.howtogeek.com/51819/how-to-setup-email-alerts-on-linux-using-gmail/
 	AuthUser=<your-account's-user-name>
 	AuthPass=<your-account's-password>
 https://askubuntu.com/questions/800356/ssmtp-cannot-open-smtp-gmail-com587
+https://github.com/manankalra/elastalert-tutorial/blob/master/README.md
