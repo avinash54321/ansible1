@@ -17,3 +17,4 @@ https://serverfault.com/questions/635139/how-to-fix-send-mail-authorization-fail
 https://stackoverflow.com/questions/20349170/socket-error-errno-111-connection-refused
 https://askubuntu.com/questions/531526/ssmtp-cannot-open-mail-server-com25
 https://github.com/Yelp/elastalert/issues/667
+https://www.howtogeek.com/51819/how-to-setup-email-alerts-on-linux-using-gmail/
